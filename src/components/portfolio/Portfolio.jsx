@@ -59,6 +59,7 @@ function Portfolio() {
                     <div className='portfolio__click__info'>&#x1F50E;&#xFE0E;</div>
                     {createModal(tempData)}
             </Card>
+            
         )
     })
 
