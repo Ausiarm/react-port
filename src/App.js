@@ -16,11 +16,11 @@ const App = () => {
         <Header/>
         <ParticleAnimation
           style={{height: '96vh'}}
-          background={{ r: 21, g: 22, b: 23, a: 1 }}
+          background={{ r: 214, g: 235, b: 255, a: 1 }}
           numParticles= '600'
           particleSpeed= '0.69'
           particleRadius= '1.5'
-          color= {{ r: 150, g: 80, b: 250, a: 255 }}
+          color= {{ r: 4, g: 7, b: 32, a: 255 }}
         />
         <AboutMe/>
         <Technologies/>

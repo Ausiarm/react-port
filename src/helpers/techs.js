@@ -27,10 +27,10 @@ export const techs = [
         name: 'React',
         iconName: 'react'
     },
-    {
-        name: 'Rails',
-        iconName: 'ruby_on_rails'
-    },
+    // {
+    //     name: 'Rails',
+    //     iconName: 'ruby_on_rails'
+    // },
     {
         name: 'PostgreSQL',
         iconName: 'postgresql'
