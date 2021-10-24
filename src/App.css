@@ -6,6 +6,7 @@
     font-family: 'Luckiest Guy', cursive;
 }
 
+
 /*create variables that can be reused constantly*/
 :root {
     --nav-color: hsl(210, 11%, 15%);

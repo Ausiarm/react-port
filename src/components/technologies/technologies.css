@@ -28,6 +28,7 @@
     border-radius: 50%;
     border-bottom: 5px solid var(--nav-color);
     transition: all 0.1s;
+    
 }
 
 .tech__icon {
