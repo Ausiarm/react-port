@@ -7,7 +7,7 @@ import AboutMe from './components/aboutme/AboutMe';
 import Technologies from './components/technologies/Technologies';
 import Portfolio from './components/portfolio/Portfolio';
 import ContactMe from './components/contactme/ContactMe';
-import ParticlesMask from './components/particleAnim/ParticlesMask';
+
 
 
 const App = () => {
